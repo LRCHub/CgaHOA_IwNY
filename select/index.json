@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Lion Heart",
+  "base_artist": "Girls' Generation",
+  "createdAt": "2026-02-11T08:10:05.246361Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lion Heart",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/01_Lion_Heart_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lion Heart",
+      "artist": "Krokus",
+      "has_synced": true,
+      "path": "select/02_Lion_Heart_Krokus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lion Heart",
+      "artist": "Pride of Lions",
+      "has_synced": false,
+      "path": "select/03_Lion_Heart_Pride_of_Lions.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lion Heart",
+      "artist": "Phil Rey",
+      "has_synced": false,
+      "path": "select/04_Lion_Heart_Phil_Rey.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lion Heart",
+      "artist": "소녀시대",
+      "has_synced": true,
+      "path": "select/05_Lion_Heart_소녀시대.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lion Heart",
+      "artist": "DROELOE",
+      "has_synced": true,
+      "path": "select/06_Lion_Heart_DROELOE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lion Heart (feat. Jeremy Oceans & KARRA)",
+      "artist": "KSHMR feat. DIVINE, LIT killah, Jeremy Oceans & Karra",
+      "has_synced": true,
+      "path": "select/07_Lion_Heart_(feat._Jeremy_Oceans_&_KARRA)_KSHMR_feat._DIVINE,_LIT_killah,_Jeremy_Oceans_&_Karra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lion Heart (feat. Jeremy Oceans & KARRA)",
+      "artist": "KSHMR, DIVINE, Lit Killah",
+      "has_synced": true,
+      "path": "select/08_Lion_Heart_(feat._Jeremy_Oceans_&_KARRA)_KSHMR,_DIVINE,_Lit_Killah.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lion Heart (feat. Jeremy Oceans & KARRA)",
+      "artist": "KSHMR/Divine/LIT killah/Jeremy Oceans/Karra",
+      "has_synced": true,
+      "path": "select/09_Lion_Heart_(feat._Jeremy_Oceans_&_KARRA)_KSHMR_Divine_LIT_killah_Jeremy_Oceans_Karra.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lion Heart",
+      "artist": "Jake Miller",
+      "has_synced": true,
+      "path": "select/10_Lion_Heart_Jake_Miller.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lion Heart",
+      "artist": "ONEUS",
+      "has_synced": true,
+      "path": "select/11_Lion_Heart_ONEUS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lion Heart",
+      "artist": "少女时代",
+      "has_synced": true,
+      "path": "select/12_Lion_Heart_少女时代.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lion Heart - Radio Edit",
+      "artist": "Sean Paul",
+      "has_synced": false,
+      "path": "select/13_Lion_Heart_-_Radio_Edit_Sean_Paul.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lion Heart (radio edit)",
+      "artist": "Sean Paul",
+      "has_synced": false,
+      "path": "select/14_Lion_Heart_(radio_edit)_Sean_Paul.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lion Heart (feat. Jeremy Oceans & KARRA)",
+      "artist": "KSHMR",
+      "has_synced": false,
+      "path": "select/15_Lion_Heart_(feat._Jeremy_Oceans_&_KARRA)_KSHMR.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lion Heart",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/16_Lion_Heart_Sean_Paul.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lion Heart",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_01_Lion_Heart_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Lion Heart",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_02_Lion_Heart_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Lion Heart",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_03_Lion_Heart_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Lion Heart",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_04_Lion_Heart_少女時代.txt"
+    }
+  ]
+}
